@@ -1,0 +1,385 @@
+Sample_ID,Sample_Type,Dilution,Substrate,Time,Mean_Absorbance,Replicate_Count
+Clear_Creek,Water,0.1,2-Hydroxy Benzoic Acid,24 hours,0.058333333333333334,3
+Clear_Creek,Water,0.1,2-Hydroxy Benzoic Acid,48 hours,0.119,3
+Clear_Creek,Water,0.1,2-Hydroxy Benzoic Acid,144 hours,0.04766666666666667,3
+Clear_Creek,Water,0.1,4-Hydroxy Benzoic Acid,24 hours,0.16466666666666666,3
+Clear_Creek,Water,0.1,4-Hydroxy Benzoic Acid,48 hours,0.31133333333333335,3
+Clear_Creek,Water,0.1,4-Hydroxy Benzoic Acid,144 hours,0.5123333333333333,3
+Clear_Creek,Water,0.1,D-Cellobiose,24 hours,0.059666666666666666,3
+Clear_Creek,Water,0.1,D-Cellobiose,48 hours,0.942,3
+Clear_Creek,Water,0.1,D-Cellobiose,144 hours,2.1053333333333333,3
+Clear_Creek,Water,0.1,D-Galactonic Acid γ-Lactone,24 hours,0.04066666666666667,3
+Clear_Creek,Water,0.1,D-Galactonic Acid γ-Lactone,48 hours,1.2043333333333333,3
+Clear_Creek,Water,0.1,D-Galactonic Acid γ-Lactone,144 hours,1.5666666666666667,3
+Clear_Creek,Water,0.1,D-Galacturonic Acid,24 hours,0.12766666666666668,3
+Clear_Creek,Water,0.1,D-Galacturonic Acid,48 hours,1.3006666666666666,3
+Clear_Creek,Water,0.1,D-Galacturonic Acid,144 hours,1.7413333333333334,3
+Clear_Creek,Water,0.1,D-Glucosaminic Acid,24 hours,0.010333333333333333,3
+Clear_Creek,Water,0.1,D-Glucosaminic Acid,48 hours,0.07633333333333334,3
+Clear_Creek,Water,0.1,D-Glucosaminic Acid,144 hours,0.489,3
+Clear_Creek,Water,0.1,D-Mallic Acid,24 hours,0.013666666666666667,3
+Clear_Creek,Water,0.1,D-Mallic Acid,48 hours,0.16766666666666666,3
+Clear_Creek,Water,0.1,D-Mallic Acid,144 hours,0.5746666666666667,3
+Clear_Creek,Water,0.1,D-Mannitol,24 hours,0.128,3
+Clear_Creek,Water,0.1,D-Mannitol,48 hours,0.4603333333333333,3
+Clear_Creek,Water,0.1,D-Mannitol,144 hours,1.0703333333333334,3
+Clear_Creek,Water,0.1,D-Xylose,24 hours,0.007666666666666666,3
+Clear_Creek,Water,0.1,D-Xylose,48 hours,0.0016666666666666668,3
+Clear_Creek,Water,0.1,D-Xylose,144 hours,0.009333333333333334,3
+Clear_Creek,Water,0.1,D.L -α-Glycerol Phosphate,24 hours,0.035333333333333335,3
+Clear_Creek,Water,0.1,D.L -α-Glycerol Phosphate,48 hours,0.10033333333333333,3
+Clear_Creek,Water,0.1,D.L -α-Glycerol Phosphate,144 hours,0.11,3
+Clear_Creek,Water,0.1,Glucose-1-Phosphate,24 hours,0.041666666666666664,3
+Clear_Creek,Water,0.1,Glucose-1-Phosphate,48 hours,0.6196666666666667,3
+Clear_Creek,Water,0.1,Glucose-1-Phosphate,144 hours,1.1843333333333332,3
+Clear_Creek,Water,0.1,Glycogen,24 hours,0.31733333333333336,3
+Clear_Creek,Water,0.1,Glycogen,48 hours,0.313,3
+Clear_Creek,Water,0.1,Glycogen,144 hours,0.6596666666666666,3
+Clear_Creek,Water,0.1,Glycyl-L-Glutamic Acid,24 hours,0.14766666666666667,3
+Clear_Creek,Water,0.1,Glycyl-L-Glutamic Acid,48 hours,0.22533333333333333,3
+Clear_Creek,Water,0.1,Glycyl-L-Glutamic Acid,144 hours,0.5173333333333333,3
+Clear_Creek,Water,0.1,Itaconic Acid,24 hours,0.07466666666666666,3
+Clear_Creek,Water,0.1,Itaconic Acid,48 hours,0.4066666666666667,3
+Clear_Creek,Water,0.1,Itaconic Acid,144 hours,0.5806666666666667,3
+Clear_Creek,Water,0.1,L-Arginine,24 hours,0.083,3
+Clear_Creek,Water,0.1,L-Arginine,48 hours,0.5756666666666667,3
+Clear_Creek,Water,0.1,L-Arginine,144 hours,0.7906666666666667,3
+Clear_Creek,Water,0.1,L-Asparganine,24 hours,0.05233333333333333,3
+Clear_Creek,Water,0.1,L-Asparganine,48 hours,0.4736666666666667,3
+Clear_Creek,Water,0.1,L-Asparganine,144 hours,1.672,3
+Clear_Creek,Water,0.1,L-Phenylalanine,24 hours,0.10200000000000001,3
+Clear_Creek,Water,0.1,L-Phenylalanine,48 hours,0.20966666666666667,3
+Clear_Creek,Water,0.1,L-Phenylalanine,144 hours,0.6006666666666667,3
+Clear_Creek,Water,0.1,L-Serine,24 hours,0.16266666666666665,3
+Clear_Creek,Water,0.1,L-Serine,48 hours,0.29333333333333333,3
+Clear_Creek,Water,0.1,L-Serine,144 hours,0.6476666666666666,3
+Clear_Creek,Water,0.1,L-Threonine,24 hours,0.10866666666666668,3
+Clear_Creek,Water,0.1,L-Threonine,48 hours,0.12466666666666668,3
+Clear_Creek,Water,0.1,L-Threonine,144 hours,0.626,3
+Clear_Creek,Water,0.1,N-Acetyl-D-Glucosamine,24 hours,0.11466666666666667,3
+Clear_Creek,Water,0.1,N-Acetyl-D-Glucosamine,48 hours,0.9003333333333333,3
+Clear_Creek,Water,0.1,N-Acetyl-D-Glucosamine,144 hours,1.5873333333333333,3
+Clear_Creek,Water,0.1,Phenylethylamine,24 hours,0.030333333333333334,3
+Clear_Creek,Water,0.1,Phenylethylamine,48 hours,0.019,3
+Clear_Creek,Water,0.1,Phenylethylamine,144 hours,0.058666666666666666,3
+Clear_Creek,Water,0.1,Putrescine,24 hours,0.04066666666666667,3
+Clear_Creek,Water,0.1,Putrescine,48 hours,0.21166666666666667,3
+Clear_Creek,Water,0.1,Putrescine,144 hours,0.28800000000000003,3
+Clear_Creek,Water,0.1,Pyruvic Acid Methyl Ester,24 hours,0.009666666666666667,3
+Clear_Creek,Water,0.1,Pyruvic Acid Methyl Ester,48 hours,0.2823333333333333,3
+Clear_Creek,Water,0.1,Pyruvic Acid Methyl Ester,144 hours,1.205,3
+Clear_Creek,Water,0.1,Tween 40,24 hours,0,3
+Clear_Creek,Water,0.1,Tween 40,48 hours,0.12666666666666668,3
+Clear_Creek,Water,0.1,Tween 40,144 hours,0.9546666666666667,3
+Clear_Creek,Water,0.1,Tween 80,24 hours,0.08266666666666667,3
+Clear_Creek,Water,0.1,Tween 80,48 hours,0.33166666666666667,3
+Clear_Creek,Water,0.1,Tween 80,144 hours,1.6516666666666668,3
+Clear_Creek,Water,0.1,Water,24 hours,0,3
+Clear_Creek,Water,0.1,Water,48 hours,0,3
+Clear_Creek,Water,0.1,Water,144 hours,0,3
+Clear_Creek,Water,0.1,i-Erythitol,24 hours,0.006,3
+Clear_Creek,Water,0.1,i-Erythitol,48 hours,0.020999999999999998,3
+Clear_Creek,Water,0.1,i-Erythitol,144 hours,0.23966666666666667,3
+Clear_Creek,Water,0.1,α-Cyclodextrin,24 hours,0.012,3
+Clear_Creek,Water,0.1,α-Cyclodextrin,48 hours,0.019666666666666666,3
+Clear_Creek,Water,0.1,α-Cyclodextrin,144 hours,0.25,3
+Clear_Creek,Water,0.1,α-D-Lactose,24 hours,0.005666666666666667,3
+Clear_Creek,Water,0.1,α-D-Lactose,48 hours,0.026333333333333334,3
+Clear_Creek,Water,0.1,α-D-Lactose,144 hours,0.9503333333333333,3
+Clear_Creek,Water,0.1,α-Ketobutyric Acid,24 hours,0.011333333333333334,3
+Clear_Creek,Water,0.1,α-Ketobutyric Acid,48 hours,0.03,3
+Clear_Creek,Water,0.1,α-Ketobutyric Acid,144 hours,0.20700000000000002,3
+Clear_Creek,Water,0.1,β-Methyl-D- Glucoside,24 hours,0.02333333333333333,3
+Clear_Creek,Water,0.1,β-Methyl-D- Glucoside,48 hours,0.614,3
+Clear_Creek,Water,0.1,β-Methyl-D- Glucoside,144 hours,1.199,3
+Clear_Creek,Water,0.1,γ-Hydroxybutyric Acid,24 hours,0.13966666666666666,3
+Clear_Creek,Water,0.1,γ-Hydroxybutyric Acid,48 hours,0.24066666666666667,3
+Clear_Creek,Water,0.1,γ-Hydroxybutyric Acid,144 hours,0.302,3
+Soil_1,Soil,0.1,2-Hydroxy Benzoic Acid,24 hours,0.19433333333333333,3
+Soil_1,Soil,0.1,2-Hydroxy Benzoic Acid,48 hours,0.37033333333333335,3
+Soil_1,Soil,0.1,2-Hydroxy Benzoic Acid,144 hours,0.9186666666666666,3
+Soil_1,Soil,0.1,4-Hydroxy Benzoic Acid,24 hours,0.2876666666666667,3
+Soil_1,Soil,0.1,4-Hydroxy Benzoic Acid,48 hours,0.768,3
+Soil_1,Soil,0.1,4-Hydroxy Benzoic Acid,144 hours,0.7003333333333334,3
+Soil_1,Soil,0.1,D-Cellobiose,24 hours,0.19433333333333333,3
+Soil_1,Soil,0.1,D-Cellobiose,48 hours,0.9176666666666666,3
+Soil_1,Soil,0.1,D-Cellobiose,144 hours,1.4513333333333334,3
+Soil_1,Soil,0.1,D-Galactonic Acid γ-Lactone,24 hours,0.23833333333333334,3
+Soil_1,Soil,0.1,D-Galactonic Acid γ-Lactone,48 hours,0.42933333333333334,3
+Soil_1,Soil,0.1,D-Galactonic Acid γ-Lactone,144 hours,0.523,3
+Soil_1,Soil,0.1,D-Galacturonic Acid,24 hours,0.3363333333333333,3
+Soil_1,Soil,0.1,D-Galacturonic Acid,48 hours,0.8263333333333333,3
+Soil_1,Soil,0.1,D-Galacturonic Acid,144 hours,0.9183333333333333,3
+Soil_1,Soil,0.1,D-Glucosaminic Acid,24 hours,0.17933333333333334,3
+Soil_1,Soil,0.1,D-Glucosaminic Acid,48 hours,0.657,3
+Soil_1,Soil,0.1,D-Glucosaminic Acid,144 hours,1.2766666666666666,3
+Soil_1,Soil,0.1,D-Mallic Acid,24 hours,0.11366666666666668,3
+Soil_1,Soil,0.1,D-Mallic Acid,48 hours,0.43766666666666665,3
+Soil_1,Soil,0.1,D-Mallic Acid,144 hours,0.47000000000000003,3
+Soil_1,Soil,0.1,D-Mannitol,24 hours,0.3956666666666666,3
+Soil_1,Soil,0.1,D-Mannitol,48 hours,0.9296666666666666,3
+Soil_1,Soil,0.1,D-Mannitol,144 hours,1.4923333333333333,3
+Soil_1,Soil,0.1,D-Xylose,24 hours,0.22566666666666668,3
+Soil_1,Soil,0.1,D-Xylose,48 hours,0.6473333333333333,3
+Soil_1,Soil,0.1,D-Xylose,144 hours,0.8536666666666666,3
+Soil_1,Soil,0.1,D.L -α-Glycerol Phosphate,24 hours,0.11633333333333334,3
+Soil_1,Soil,0.1,D.L -α-Glycerol Phosphate,48 hours,0.25466666666666665,3
+Soil_1,Soil,0.1,D.L -α-Glycerol Phosphate,144 hours,0.28633333333333333,3
+Soil_1,Soil,0.1,Glucose-1-Phosphate,24 hours,0.2996666666666667,3
+Soil_1,Soil,0.1,Glucose-1-Phosphate,48 hours,0.6483333333333333,3
+Soil_1,Soil,0.1,Glucose-1-Phosphate,144 hours,0.8376666666666667,3
+Soil_1,Soil,0.1,Glycogen,24 hours,0.264,3
+Soil_1,Soil,0.1,Glycogen,48 hours,0.42,3
+Soil_1,Soil,0.1,Glycogen,144 hours,0.698,3
+Soil_1,Soil,0.1,Glycyl-L-Glutamic Acid,24 hours,0.279,3
+Soil_1,Soil,0.1,Glycyl-L-Glutamic Acid,48 hours,0.485,3
+Soil_1,Soil,0.1,Glycyl-L-Glutamic Acid,144 hours,0.7116666666666667,3
+Soil_1,Soil,0.1,Itaconic Acid,24 hours,0.21133333333333335,3
+Soil_1,Soil,0.1,Itaconic Acid,48 hours,0.848,3
+Soil_1,Soil,0.1,Itaconic Acid,144 hours,1.5626666666666666,3
+Soil_1,Soil,0.1,L-Arginine,24 hours,0.37533333333333335,3
+Soil_1,Soil,0.1,L-Arginine,48 hours,0.8633333333333333,3
+Soil_1,Soil,0.1,L-Arginine,144 hours,0.8913333333333333,3
+Soil_1,Soil,0.1,L-Asparganine,24 hours,0.49833333333333335,3
+Soil_1,Soil,0.1,L-Asparganine,48 hours,1.153,3
+Soil_1,Soil,0.1,L-Asparganine,144 hours,1.349,3
+Soil_1,Soil,0.1,L-Phenylalanine,24 hours,0.275,3
+Soil_1,Soil,0.1,L-Phenylalanine,48 hours,0.643,3
+Soil_1,Soil,0.1,L-Phenylalanine,144 hours,1.0983333333333334,3
+Soil_1,Soil,0.1,L-Serine,24 hours,0.476,3
+Soil_1,Soil,0.1,L-Serine,48 hours,0.8676666666666666,3
+Soil_1,Soil,0.1,L-Serine,144 hours,0.5853333333333334,3
+Soil_1,Soil,0.1,L-Threonine,24 hours,0.2506666666666667,3
+Soil_1,Soil,0.1,L-Threonine,48 hours,0.5563333333333333,3
+Soil_1,Soil,0.1,L-Threonine,144 hours,1.2373333333333334,3
+Soil_1,Soil,0.1,N-Acetyl-D-Glucosamine,24 hours,0.3653333333333333,3
+Soil_1,Soil,0.1,N-Acetyl-D-Glucosamine,48 hours,0.9186666666666666,3
+Soil_1,Soil,0.1,N-Acetyl-D-Glucosamine,144 hours,1.4929999999999999,3
+Soil_1,Soil,0.1,Phenylethylamine,24 hours,0.011333333333333334,3
+Soil_1,Soil,0.1,Phenylethylamine,48 hours,0.083,3
+Soil_1,Soil,0.1,Phenylethylamine,144 hours,0.5153333333333333,3
+Soil_1,Soil,0.1,Putrescine,24 hours,0.22033333333333333,3
+Soil_1,Soil,0.1,Putrescine,48 hours,0.424,3
+Soil_1,Soil,0.1,Putrescine,144 hours,0.47833333333333333,3
+Soil_1,Soil,0.1,Pyruvic Acid Methyl Ester,24 hours,0.218,3
+Soil_1,Soil,0.1,Pyruvic Acid Methyl Ester,48 hours,0.6403333333333333,3
+Soil_1,Soil,0.1,Pyruvic Acid Methyl Ester,144 hours,0.8436666666666667,3
+Soil_1,Soil,0.1,Tween 40,24 hours,0.15433333333333335,3
+Soil_1,Soil,0.1,Tween 40,48 hours,0.162,3
+Soil_1,Soil,0.1,Tween 40,144 hours,0.8026666666666666,3
+Soil_1,Soil,0.1,Tween 80,24 hours,0.4563333333333333,3
+Soil_1,Soil,0.1,Tween 80,48 hours,0.6193333333333333,3
+Soil_1,Soil,0.1,Tween 80,144 hours,1.3493333333333333,3
+Soil_1,Soil,0.1,Water,24 hours,0,3
+Soil_1,Soil,0.1,Water,48 hours,0,3
+Soil_1,Soil,0.1,Water,144 hours,0,3
+Soil_1,Soil,0.1,i-Erythitol,24 hours,0.19833333333333333,3
+Soil_1,Soil,0.1,i-Erythitol,48 hours,0.5343333333333333,3
+Soil_1,Soil,0.1,i-Erythitol,144 hours,1.1476666666666668,3
+Soil_1,Soil,0.1,α-Cyclodextrin,24 hours,0.15133333333333335,3
+Soil_1,Soil,0.1,α-Cyclodextrin,48 hours,0.4676666666666667,3
+Soil_1,Soil,0.1,α-Cyclodextrin,144 hours,0.6526666666666667,3
+Soil_1,Soil,0.1,α-D-Lactose,24 hours,0.113,3
+Soil_1,Soil,0.1,α-D-Lactose,48 hours,0.42933333333333334,3
+Soil_1,Soil,0.1,α-D-Lactose,144 hours,0.8073333333333333,3
+Soil_1,Soil,0.1,α-Ketobutyric Acid,24 hours,0.214,3
+Soil_1,Soil,0.1,α-Ketobutyric Acid,48 hours,0.4676666666666667,3
+Soil_1,Soil,0.1,α-Ketobutyric Acid,144 hours,0.7636666666666666,3
+Soil_1,Soil,0.1,β-Methyl-D- Glucoside,24 hours,0.19000000000000003,3
+Soil_1,Soil,0.1,β-Methyl-D- Glucoside,48 hours,0.43066666666666664,3
+Soil_1,Soil,0.1,β-Methyl-D- Glucoside,144 hours,0.4756666666666667,3
+Soil_1,Soil,0.1,γ-Hydroxybutyric Acid,24 hours,0.08933333333333333,3
+Soil_1,Soil,0.1,γ-Hydroxybutyric Acid,48 hours,0.40900000000000003,3
+Soil_1,Soil,0.1,γ-Hydroxybutyric Acid,144 hours,0.44033333333333335,3
+Soil_2,Soil,0.1,2-Hydroxy Benzoic Acid,24 hours,0.11533333333333334,3
+Soil_2,Soil,0.1,2-Hydroxy Benzoic Acid,48 hours,0.213,3
+Soil_2,Soil,0.1,2-Hydroxy Benzoic Acid,144 hours,0.755,3
+Soil_2,Soil,0.1,4-Hydroxy Benzoic Acid,24 hours,0.3423333333333333,3
+Soil_2,Soil,0.1,4-Hydroxy Benzoic Acid,48 hours,0.6083333333333334,3
+Soil_2,Soil,0.1,4-Hydroxy Benzoic Acid,144 hours,0.864,3
+Soil_2,Soil,0.1,D-Cellobiose,24 hours,0.07733333333333334,3
+Soil_2,Soil,0.1,D-Cellobiose,48 hours,0.5173333333333333,3
+Soil_2,Soil,0.1,D-Cellobiose,144 hours,0.714,3
+Soil_2,Soil,0.1,D-Galactonic Acid γ-Lactone,24 hours,0.12766666666666668,3
+Soil_2,Soil,0.1,D-Galactonic Acid γ-Lactone,48 hours,0.266,3
+Soil_2,Soil,0.1,D-Galactonic Acid γ-Lactone,144 hours,0.412,3
+Soil_2,Soil,0.1,D-Galacturonic Acid,24 hours,0.366,3
+Soil_2,Soil,0.1,D-Galacturonic Acid,48 hours,0.5893333333333333,3
+Soil_2,Soil,0.1,D-Galacturonic Acid,144 hours,0.821,3
+Soil_2,Soil,0.1,D-Glucosaminic Acid,24 hours,0.306,3
+Soil_2,Soil,0.1,D-Glucosaminic Acid,48 hours,0.403,3
+Soil_2,Soil,0.1,D-Glucosaminic Acid,144 hours,0.8653333333333334,3
+Soil_2,Soil,0.1,D-Mallic Acid,24 hours,0.221,3
+Soil_2,Soil,0.1,D-Mallic Acid,48 hours,0.24000000000000002,3
+Soil_2,Soil,0.1,D-Mallic Acid,144 hours,0.48,3
+Soil_2,Soil,0.1,D-Mannitol,24 hours,0.39633333333333337,3
+Soil_2,Soil,0.1,D-Mannitol,48 hours,0.6706666666666666,3
+Soil_2,Soil,0.1,D-Mannitol,144 hours,1.1576666666666666,3
+Soil_2,Soil,0.1,D-Xylose,24 hours,0.32766666666666666,3
+Soil_2,Soil,0.1,D-Xylose,48 hours,0.61,3
+Soil_2,Soil,0.1,D-Xylose,144 hours,0.9706666666666667,3
+Soil_2,Soil,0.1,D.L -α-Glycerol Phosphate,24 hours,0.16766666666666666,3
+Soil_2,Soil,0.1,D.L -α-Glycerol Phosphate,48 hours,0.14833333333333334,3
+Soil_2,Soil,0.1,D.L -α-Glycerol Phosphate,144 hours,0.15666666666666668,3
+Soil_2,Soil,0.1,Glucose-1-Phosphate,24 hours,0.18233333333333335,3
+Soil_2,Soil,0.1,Glucose-1-Phosphate,48 hours,0.2673333333333333,3
+Soil_2,Soil,0.1,Glucose-1-Phosphate,144 hours,0.61,3
+Soil_2,Soil,0.1,Glycogen,24 hours,0.33499999999999996,3
+Soil_2,Soil,0.1,Glycogen,48 hours,0.5630000000000001,3
+Soil_2,Soil,0.1,Glycogen,144 hours,0.7186666666666667,3
+Soil_2,Soil,0.1,Glycyl-L-Glutamic Acid,24 hours,0.15933333333333333,3
+Soil_2,Soil,0.1,Glycyl-L-Glutamic Acid,48 hours,0.22066666666666668,3
+Soil_2,Soil,0.1,Glycyl-L-Glutamic Acid,144 hours,0.6233333333333333,3
+Soil_2,Soil,0.1,Itaconic Acid,24 hours,0.2813333333333333,3
+Soil_2,Soil,0.1,Itaconic Acid,48 hours,0.49233333333333335,3
+Soil_2,Soil,0.1,Itaconic Acid,144 hours,0.994,3
+Soil_2,Soil,0.1,L-Arginine,24 hours,0.20866666666666664,3
+Soil_2,Soil,0.1,L-Arginine,48 hours,0.3753333333333333,3
+Soil_2,Soil,0.1,L-Arginine,144 hours,0.5713333333333334,3
+Soil_2,Soil,0.1,L-Asparganine,24 hours,0.36833333333333335,3
+Soil_2,Soil,0.1,L-Asparganine,48 hours,0.5613333333333334,3
+Soil_2,Soil,0.1,L-Asparganine,144 hours,0.9036666666666667,3
+Soil_2,Soil,0.1,L-Phenylalanine,24 hours,0.24566666666666667,3
+Soil_2,Soil,0.1,L-Phenylalanine,48 hours,0.2836666666666667,3
+Soil_2,Soil,0.1,L-Phenylalanine,144 hours,0.8916666666666667,3
+Soil_2,Soil,0.1,L-Serine,24 hours,0.3383333333333333,3
+Soil_2,Soil,0.1,L-Serine,48 hours,0.5243333333333333,3
+Soil_2,Soil,0.1,L-Serine,144 hours,0.898,3
+Soil_2,Soil,0.1,L-Threonine,24 hours,0.21033333333333332,3
+Soil_2,Soil,0.1,L-Threonine,48 hours,0.32166666666666666,3
+Soil_2,Soil,0.1,L-Threonine,144 hours,0.843,3
+Soil_2,Soil,0.1,N-Acetyl-D-Glucosamine,24 hours,0.378,3
+Soil_2,Soil,0.1,N-Acetyl-D-Glucosamine,48 hours,0.7316666666666667,3
+Soil_2,Soil,0.1,N-Acetyl-D-Glucosamine,144 hours,1.0343333333333333,3
+Soil_2,Soil,0.1,Phenylethylamine,24 hours,0.14866666666666667,3
+Soil_2,Soil,0.1,Phenylethylamine,48 hours,0.20333333333333334,3
+Soil_2,Soil,0.1,Phenylethylamine,144 hours,0.872,3
+Soil_2,Soil,0.1,Putrescine,24 hours,0.25233333333333335,3
+Soil_2,Soil,0.1,Putrescine,48 hours,0.33166666666666667,3
+Soil_2,Soil,0.1,Putrescine,144 hours,0.42033333333333334,3
+Soil_2,Soil,0.1,Pyruvic Acid Methyl Ester,24 hours,0.303,3
+Soil_2,Soil,0.1,Pyruvic Acid Methyl Ester,48 hours,0.4776666666666667,3
+Soil_2,Soil,0.1,Pyruvic Acid Methyl Ester,144 hours,0.5893333333333333,3
+Soil_2,Soil,0.1,Tween 40,24 hours,0.12533333333333332,3
+Soil_2,Soil,0.1,Tween 40,48 hours,0.303,3
+Soil_2,Soil,0.1,Tween 40,144 hours,0.694,3
+Soil_2,Soil,0.1,Tween 80,24 hours,0.248,3
+Soil_2,Soil,0.1,Tween 80,48 hours,0.4386666666666667,3
+Soil_2,Soil,0.1,Tween 80,144 hours,0.8323333333333334,3
+Soil_2,Soil,0.1,Water,24 hours,0,3
+Soil_2,Soil,0.1,Water,48 hours,0,3
+Soil_2,Soil,0.1,Water,144 hours,0,3
+Soil_2,Soil,0.1,i-Erythitol,24 hours,0.23033333333333333,3
+Soil_2,Soil,0.1,i-Erythitol,48 hours,0.3263333333333333,3
+Soil_2,Soil,0.1,i-Erythitol,144 hours,0.9550000000000001,3
+Soil_2,Soil,0.1,α-Cyclodextrin,24 hours,0.14366666666666666,3
+Soil_2,Soil,0.1,α-Cyclodextrin,48 hours,0.432,3
+Soil_2,Soil,0.1,α-Cyclodextrin,144 hours,0.8616666666666667,3
+Soil_2,Soil,0.1,α-D-Lactose,24 hours,0.03233333333333333,3
+Soil_2,Soil,0.1,α-D-Lactose,48 hours,0.21033333333333334,3
+Soil_2,Soil,0.1,α-D-Lactose,144 hours,0.45066666666666666,3
+Soil_2,Soil,0.1,α-Ketobutyric Acid,24 hours,0.19433333333333333,3
+Soil_2,Soil,0.1,α-Ketobutyric Acid,48 hours,0.32933333333333337,3
+Soil_2,Soil,0.1,α-Ketobutyric Acid,144 hours,0.7106666666666667,3
+Soil_2,Soil,0.1,β-Methyl-D- Glucoside,24 hours,0.2343333333333333,3
+Soil_2,Soil,0.1,β-Methyl-D- Glucoside,48 hours,0.29733333333333334,3
+Soil_2,Soil,0.1,β-Methyl-D- Glucoside,144 hours,0.31666666666666665,3
+Soil_2,Soil,0.1,γ-Hydroxybutyric Acid,24 hours,0.35900000000000004,3
+Soil_2,Soil,0.1,γ-Hydroxybutyric Acid,48 hours,0.3416666666666667,3
+Soil_2,Soil,0.1,γ-Hydroxybutyric Acid,144 hours,0.443,3
+Waste_Water,Water,0.1,2-Hydroxy Benzoic Acid,24 hours,0.005999999999999999,3
+Waste_Water,Water,0.1,2-Hydroxy Benzoic Acid,48 hours,0.03766666666666667,3
+Waste_Water,Water,0.1,2-Hydroxy Benzoic Acid,144 hours,0,3
+Waste_Water,Water,0.1,4-Hydroxy Benzoic Acid,24 hours,0.052000000000000005,3
+Waste_Water,Water,0.1,4-Hydroxy Benzoic Acid,48 hours,0.37333333333333335,3
+Waste_Water,Water,0.1,4-Hydroxy Benzoic Acid,144 hours,1.0033333333333334,3
+Waste_Water,Water,0.1,D-Cellobiose,24 hours,0.356,3
+Waste_Water,Water,0.1,D-Cellobiose,48 hours,1.1260000000000001,3
+Waste_Water,Water,0.1,D-Cellobiose,144 hours,1.424,3
+Waste_Water,Water,0.1,D-Galactonic Acid γ-Lactone,24 hours,0.026,3
+Waste_Water,Water,0.1,D-Galactonic Acid γ-Lactone,48 hours,0.989,3
+Waste_Water,Water,0.1,D-Galactonic Acid γ-Lactone,144 hours,0.7896666666666666,3
+Waste_Water,Water,0.1,D-Galacturonic Acid,24 hours,0.20633333333333334,3
+Waste_Water,Water,0.1,D-Galacturonic Acid,48 hours,0.8766666666666666,3
+Waste_Water,Water,0.1,D-Galacturonic Acid,144 hours,1.945,3
+Waste_Water,Water,0.1,D-Glucosaminic Acid,24 hours,0.012333333333333333,3
+Waste_Water,Water,0.1,D-Glucosaminic Acid,48 hours,0.03266666666666666,3
+Waste_Water,Water,0.1,D-Glucosaminic Acid,144 hours,0.17166666666666666,3
+Waste_Water,Water,0.1,D-Mallic Acid,24 hours,0.032,3
+Waste_Water,Water,0.1,D-Mallic Acid,48 hours,0.339,3
+Waste_Water,Water,0.1,D-Mallic Acid,144 hours,0.32266666666666666,3
+Waste_Water,Water,0.1,D-Mannitol,24 hours,0.17433333333333334,3
+Waste_Water,Water,0.1,D-Mannitol,48 hours,0.7806666666666667,3
+Waste_Water,Water,0.1,D-Mannitol,144 hours,2.0503333333333336,3
+Waste_Water,Water,0.1,D-Xylose,24 hours,0.012666666666666666,3
+Waste_Water,Water,0.1,D-Xylose,48 hours,0,3
+Waste_Water,Water,0.1,D-Xylose,144 hours,0,3
+Waste_Water,Water,0.1,D.L -α-Glycerol Phosphate,24 hours,0.03666666666666667,3
+Waste_Water,Water,0.1,D.L -α-Glycerol Phosphate,48 hours,0.14733333333333334,3
+Waste_Water,Water,0.1,D.L -α-Glycerol Phosphate,144 hours,0.30266666666666664,3
+Waste_Water,Water,0.1,Glucose-1-Phosphate,24 hours,0.025666666666666667,3
+Waste_Water,Water,0.1,Glucose-1-Phosphate,48 hours,0.35566666666666663,3
+Waste_Water,Water,0.1,Glucose-1-Phosphate,144 hours,0.7803333333333333,3
+Waste_Water,Water,0.1,Glycogen,24 hours,0.7193333333333334,3
+Waste_Water,Water,0.1,Glycogen,48 hours,1.3193333333333332,3
+Waste_Water,Water,0.1,Glycogen,144 hours,1.575,3
+Waste_Water,Water,0.1,Glycyl-L-Glutamic Acid,24 hours,0.021333333333333333,3
+Waste_Water,Water,0.1,Glycyl-L-Glutamic Acid,48 hours,0.24033333333333334,3
+Waste_Water,Water,0.1,Glycyl-L-Glutamic Acid,144 hours,0.9626666666666667,3
+Waste_Water,Water,0.1,Itaconic Acid,24 hours,0.05533333333333333,3
+Waste_Water,Water,0.1,Itaconic Acid,48 hours,0.154,3
+Waste_Water,Water,0.1,Itaconic Acid,144 hours,0.3473333333333333,3
+Waste_Water,Water,0.1,L-Arginine,24 hours,0.23866666666666667,3
+Waste_Water,Water,0.1,L-Arginine,48 hours,0.457,3
+Waste_Water,Water,0.1,L-Arginine,144 hours,1.3703333333333334,3
+Waste_Water,Water,0.1,L-Asparganine,24 hours,0.13733333333333334,3
+Waste_Water,Water,0.1,L-Asparganine,48 hours,1.1583333333333334,3
+Waste_Water,Water,0.1,L-Asparganine,144 hours,1.652,3
+Waste_Water,Water,0.1,L-Phenylalanine,24 hours,0.037333333333333336,3
+Waste_Water,Water,0.1,L-Phenylalanine,48 hours,0.32733333333333337,3
+Waste_Water,Water,0.1,L-Phenylalanine,144 hours,1.1303333333333334,3
+Waste_Water,Water,0.1,L-Serine,24 hours,0.04666666666666667,3
+Waste_Water,Water,0.1,L-Serine,48 hours,0.9463333333333334,3
+Waste_Water,Water,0.1,L-Serine,144 hours,1.334,3
+Waste_Water,Water,0.1,L-Threonine,24 hours,0.04133333333333333,3
+Waste_Water,Water,0.1,L-Threonine,48 hours,0.33299999999999996,3
+Waste_Water,Water,0.1,L-Threonine,144 hours,0.7576666666666666,3
+Waste_Water,Water,0.1,N-Acetyl-D-Glucosamine,24 hours,0.16633333333333333,3
+Waste_Water,Water,0.1,N-Acetyl-D-Glucosamine,48 hours,1.1726666666666667,3
+Waste_Water,Water,0.1,N-Acetyl-D-Glucosamine,144 hours,2.0176666666666665,3
+Waste_Water,Water,0.1,Phenylethylamine,24 hours,0.136,3
+Waste_Water,Water,0.1,Phenylethylamine,48 hours,0.35633333333333334,3
+Waste_Water,Water,0.1,Phenylethylamine,144 hours,0.7386666666666667,3
+Waste_Water,Water,0.1,Putrescine,24 hours,0.023,3
+Waste_Water,Water,0.1,Putrescine,48 hours,0.27166666666666667,3
+Waste_Water,Water,0.1,Putrescine,144 hours,1.2266666666666666,3
+Waste_Water,Water,0.1,Pyruvic Acid Methyl Ester,24 hours,0.05933333333333333,3
+Waste_Water,Water,0.1,Pyruvic Acid Methyl Ester,48 hours,0.38866666666666666,3
+Waste_Water,Water,0.1,Pyruvic Acid Methyl Ester,144 hours,0.6136666666666667,3
+Waste_Water,Water,0.1,Tween 40,24 hours,0,3
+Waste_Water,Water,0.1,Tween 40,48 hours,0.0036666666666666666,3
+Waste_Water,Water,0.1,Tween 40,144 hours,0.22299999999999998,3
+Waste_Water,Water,0.1,Tween 80,24 hours,0.11666666666666667,3
+Waste_Water,Water,0.1,Tween 80,48 hours,0.7376666666666667,3
+Waste_Water,Water,0.1,Tween 80,144 hours,2.2453333333333334,3
+Waste_Water,Water,0.1,Water,24 hours,0,3
+Waste_Water,Water,0.1,Water,48 hours,0,3
+Waste_Water,Water,0.1,Water,144 hours,0,3
+Waste_Water,Water,0.1,i-Erythitol,24 hours,0.041,3
+Waste_Water,Water,0.1,i-Erythitol,48 hours,0.19533333333333333,3
+Waste_Water,Water,0.1,i-Erythitol,144 hours,0.7466666666666667,3
+Waste_Water,Water,0.1,α-Cyclodextrin,24 hours,0.022333333333333334,3
+Waste_Water,Water,0.1,α-Cyclodextrin,48 hours,0.06466666666666666,3
+Waste_Water,Water,0.1,α-Cyclodextrin,144 hours,0.14466666666666667,3
+Waste_Water,Water,0.1,α-D-Lactose,24 hours,0.017333333333333333,3
+Waste_Water,Water,0.1,α-D-Lactose,48 hours,0.4686666666666667,3
+Waste_Water,Water,0.1,α-D-Lactose,144 hours,1.2023333333333333,3
+Waste_Water,Water,0.1,α-Ketobutyric Acid,24 hours,0.016666666666666666,3
+Waste_Water,Water,0.1,α-Ketobutyric Acid,48 hours,0,3
+Waste_Water,Water,0.1,α-Ketobutyric Acid,144 hours,0.021,3
+Waste_Water,Water,0.1,β-Methyl-D- Glucoside,24 hours,0.028,3
+Waste_Water,Water,0.1,β-Methyl-D- Glucoside,48 hours,1,3
+Waste_Water,Water,0.1,β-Methyl-D- Glucoside,144 hours,1.3516666666666666,3
+Waste_Water,Water,0.1,γ-Hydroxybutyric Acid,24 hours,0.12833333333333333,3
+Waste_Water,Water,0.1,γ-Hydroxybutyric Acid,48 hours,0.3833333333333333,3
+Waste_Water,Water,0.1,γ-Hydroxybutyric Acid,144 hours,0.37866666666666665,3
